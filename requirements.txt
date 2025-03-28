@@ -1,0 +1,17 @@
+# Librairies principales pour l'analyse de données et l'optimisation
+numpy>=1.20.0
+pandas>=1.3.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Pour la récupération des données financières
+yfinance>=0.1.70
+
+# Pour l'environnement de notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Modules optionnels pour visualisations avancées
+squarify>=0.4.3  # Pour les treemaps
+plotly>=5.5.0   # Pour les visualisations interactives
